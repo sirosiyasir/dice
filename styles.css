@@ -49,6 +49,11 @@
   margin-left: 90px;
 }
 
+#inputPlayer1,
+#inputPlayer2 {
+  padding: 7px;
+}
+
 body {
   background-color: #393E46;
 }
